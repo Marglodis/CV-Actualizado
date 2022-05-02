@@ -13,3 +13,11 @@
     width: 18vw;
     height: 22vw;
 }
+
+.accordion-body{
+    background-color: black;
+}
+
+.accordion-button{
+    font-weight: 700;
+}
